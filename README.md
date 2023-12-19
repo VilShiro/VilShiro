@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on JavaCU
 - 🤔 I’m looking for help with any projects in Java
 - 📫 How to reach me: Telegram: t.me/idontknowwhatyoumeanman
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I don't like Python programmers
 
 <p align='center'>
