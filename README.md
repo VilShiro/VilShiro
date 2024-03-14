@@ -2,7 +2,7 @@
 
 #### I am a student programmer from Belarus, I program in Java, I have skills in working with Bash and Linux.
 
-- 🔭 I’m currently working on JavaCU
+- 🔭 I’m currently working on Compact Blue(Minecraft mod)
 - 🤔 I’m looking for help with any projects in Java
 - 📫 How to reach me: Telegram: t.me/idontknowwhatyoumeanman
 - 😄 Pronouns: he/him
