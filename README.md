@@ -6,7 +6,5 @@
 - How to reach me: Telegram: t.me/idontknowwhatyoumeanman
 - Pronouns: he/him
 
-<p align='center'>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
