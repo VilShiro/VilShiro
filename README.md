@@ -1,6 +1,6 @@
-### Hi, my name is Vitaliy👋
+# Hi, my name is Vil Shiro
 
-#### I am a student programmer from Belarus, I program in Java, I have skills in working with Bash and Linux.
+## I am a student programmer from Belarus
 
 - 
 - How to reach me: Telegram: t.me/idontknowwhatyoumeanman
