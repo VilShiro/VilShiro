@@ -2,7 +2,6 @@
 
 #### I am a student programmer from Belarus
 
-- 
 - How to reach me: Telegram: t.me/idontknowwhatyoumeanman
 - Pronouns: he/him
 
