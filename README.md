@@ -3,7 +3,6 @@
 #### I am a student programmer from Belarus
 
 - How to reach me: Telegram: t.me/idontknowwhatyoumeanbro
-- Pronouns: he/him
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VilShiro&layout=compact)](https://github.com/VilShiro/github-readme-stats)
 
