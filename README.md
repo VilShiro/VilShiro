@@ -24,7 +24,7 @@ $\color{SkyBlue}{\textsf{profile \lbrace}}$<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{LightSalmon}{\textsf{\rbrace}}$<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{LightSalmon}{\textsf{rust \lbrace}}$<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{MediumAquamarine}{\textsf{guiFrameworks \lbrace}}$<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{Wheat}{\textsf{dependency(libs.iced)}}$<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{Wheat}{\textsf{implementation(libs.iced)}}$<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{MediumAquamarine}{\textsf{\rbrace}}$<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{LightSalmon}{\textsf{\rbrace}}$<br>
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{IndianRed}{\textsf{\rbrace}}$<br>
