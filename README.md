@@ -29,5 +29,3 @@ $\color{SkyBlue}{\textsf{profile \lbrace}}$<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{LightSalmon}{\textsf{\rbrace}}$<br>
 &nbsp;&nbsp;&nbsp;&nbsp; $\color{IndianRed}{\textsf{\rbrace}}$<br>
 $\color{SkyBlue}{\textsf{\rbrace}}$
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VilShiro&layout=compact)](https://github.com/VilShiro/github-readme-stats)
